@@ -1,0 +1,2 @@
+# divident
+divident management script
